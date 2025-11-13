@@ -61,23 +61,3 @@ Ed25519 es más seguro y eficiente: genera claves más cortas, difíciles de vul
 ## 🧾 Autor
 **Equipo 4 — Práctica SSH / Administración Linux**  
 Universidad — Titulación 2025
-
-titulacion
-Titulacion2025****
-https://192.168.0.107
-
-3 recomendaciones de seguridad (por ejemplo):
-
-Habilitar TLS en Cockpit.
-
-Deshabilitar login de root por contraseña.
-
-Usar UFW o firewall activo.
-
-Responde brevemente (máx 150 palabras cada una):
-
-¿Por qué usar Cockpit en vez de solo CLI?
-
-Riesgo principal de exponer CasaOS en Internet.
-
-Ventaja de usar ed25519 frente a RSA.
