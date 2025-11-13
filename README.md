@@ -1,19 +1,6 @@
-Práctica SSH - ubuntu-server Equipo 4
-Ip:
-http://192.168.0.107/
-
-CockPit:
-titulacion
-Titulacion2025****
-https://192.168.0.107:9090
-
-CasaOs:# 🖥️ Práctica SSH — Ubuntu Server  
-**Equipo 4**
-
----
-
 ## 🌐 Datos del servidor
-- **IP del servidor:** `192.168.0.107`  
+- **IP del servidor:** `192.168.0.107`
+- **Usuario:** `titulacion`    
 - **Cockpit:** [https://192.168.0.107:9090](https://192.168.0.107:9090)  
 - **CasaOS:** [http://192.168.0.107](http://192.168.0.107)
 
