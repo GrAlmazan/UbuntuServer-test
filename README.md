@@ -7,9 +7,11 @@
 ---
 
 ## 📸 Evidencias
-1. **Cockpit:** Captura mostrando uso de CPU/RAM, servicios y terminal.  
+1. **Cockpit:** Captura mostrando uso de CPU/RAM, servicios y terminal. 
+![Overview](./img/overview.png)
 2. **CasaOS:** Captura de app instalada (ej. Nginx o Portainer) y docker ps.  
-3. **SSH + GitHub:** Captura de conexión exitosa y push del repositorio.  
+3. **SSH + GitHub:** Captura de conexión exitosa y push del repositorio. 
+![Primer commit](./img/primer_commit.png) 
 
 ---
 
