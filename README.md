@@ -6,14 +6,6 @@
 
 ---
 
-## 👤 Credenciales de prueba
-> ⚠️ *Solo para práctica local, no usar en entornos reales.*
-
-- **Usuario:** titulacion  
-- **Contraseña:** Titulacion2025****
-
----
-
 ## 📸 Evidencias
 1. **Cockpit:** Captura mostrando uso de CPU/RAM, servicios y terminal.  
 2. **CasaOS:** Captura de app instalada (ej. Nginx o Portainer) y docker ps.  
